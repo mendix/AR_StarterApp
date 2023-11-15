@@ -12,7 +12,7 @@
     <properties>
         <java.version>11</java.version>
         <mendix.version>9.20.0</mendix.version>
-        <commons-text.version>1.10.0</commons-text.version>
+        <commons-text.version>1.11.0</commons-text.version>
         <oauth2-oidc-sdk.version>10.7</oauth2-oidc-sdk.version>
         <json-smart.version>2.4.10</json-smart.version>
         <javaxjavax.servlet-api.version>4.0.1</javaxjavax.servlet-api.version>
